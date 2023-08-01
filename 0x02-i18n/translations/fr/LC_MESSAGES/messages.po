@@ -19,16 +19,16 @@ msgstr ""
 "Generated-By: Babel 2.12.1\n"
 
 msgid "home_title"
-msgstr "Welcome to Holberton"
+msgstr "Bienvenue chez Holberton"
 
 msgid "home_header"
-msgstr "Hello world!"
+msgstr "Bonjour monde!"
 
 msgid "logged_in_as"
-msgstr "You are logged in as %(username)s."
+msgstr "Vous êtes connecté en tant que %(username)s."
 
 msgid "not_logged_in"
-msgstr "You are not logged in."
+msgstr "Vous n'êtes pas connecté."
 
 msgid "current_time_is"
-msgstr "The current time is %(current_time)s."
+msgstr "Nous sommes le %(current_time)s."
